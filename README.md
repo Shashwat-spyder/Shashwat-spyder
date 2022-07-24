@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Shashwat-spyder
+- 👋 Hi, I’m @shashwat-spyder
 - 👀 I’m interested in Data Science, ML and AI.
 - 🌱 I’m currently learning Data Science and ML models.
 - 💞️ I’m looking to collaborate on Projects.
