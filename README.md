@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @shashwat-spyder
-- 👀 I’m interested in Data Science, ML and AI.
-- 🌱 I’m currently learning Data Science and ML models.
+- 👀 I’m interested in CyberSecurity and Machine Learning in AI.
+- 🌱 I’m currently learning Network Security.
 - 💞️ I’m looking to collaborate on Projects.
 <!-- - 📫 How to reach me ... -->
 
