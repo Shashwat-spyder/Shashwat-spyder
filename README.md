@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @shashwat-spyder
+- 👋 Hi, I’m @shashwat-sec
 - 👀 I’m interested in CyberSecurity and Machine Learning in AI.
 - 🌱 I’m currently learning Network Security.
 - 💞️ I’m looking to collaborate on Projects.
